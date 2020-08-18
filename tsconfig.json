@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es6", // to support es6 code
+    "module": "commonjs",
+    "declaration": true, // to export types for others
+    "sourceMap": true, // for debugging
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "esModuleInterop": true,
+  },
+  "exclude": [
+    "templates",
+    "dist"
+  ]
+}
