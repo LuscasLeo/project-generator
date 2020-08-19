@@ -1,8 +1,0 @@
-{
-    "name": "simple-proj",
-    "description": "Boiletplate Proj",
-    "authors": "author",
-    "version": "1.0.0",
-    "main": "pathToMain",
-    "dependencies": {}
-}

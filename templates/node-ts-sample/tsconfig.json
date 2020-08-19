@@ -8,7 +8,6 @@
     "rootDir": "src",
     "strict": true,
     "esModuleInterop": true,
-    "strictNullChecks": false
   },
   "exclude": [
     "templates",
